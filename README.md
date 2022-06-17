@@ -1,2 +1,2 @@
 # AutoPart-Management-System
-A Java project for Programmin 3 exam to manage an autopart seller
+A Java project for Programming 3 exam to manage an autopart seller
